@@ -4,7 +4,7 @@ I'm a Computer Science student from the Philippines. I build practical software.
 
 I work on web development, systems tools, automation, and game modding. I also use AI tools to build and learn faster.
 
-[Portfolio](https://ransu.dev) · [GitHub](https://github.com/ransudev) · [Email](mailto:ransu.email@gmail.com) · Discord: `@ransudev`
+[Portfolio](https://ransudev.vercel.app) · [GitHub](https://github.com/ransudev) · [Email](mailto:ransu.email@gmail.com) · Discord: `@ransudev`
 
 ## What I do
 
