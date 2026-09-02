@@ -1,4 +1,4 @@
-# Hi, I'm Lance 👋
+# Hi, I'm Ransu 👋
 
 <p align="left">
   <a href="https://ransudev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6d5dfc?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
