@@ -6,7 +6,7 @@
   <a href="mailto:ransu.email@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-I'm a Computer Science student from the Philippines. I build practical software.
+I'm a Computer Science student. I build practical software.
 
 I work on web development, systems tools, automation, and game modding. I also use AI tools to build and learn faster.
 
