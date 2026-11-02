@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://ransudev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-e02020?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://ransudev.site"><img src="https://img.shields.io/badge/Portfolio-e02020?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/ransudev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:ransu.email@gmail.com"><img src="https://img.shields.io/badge/Email-ff8a1f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Discord-@ransudev-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @ransudev" />
