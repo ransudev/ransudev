@@ -23,30 +23,13 @@ I work on web development, systems tools, automation, and game modding. I also u
 
 <br />
 
-## 🛠️ What I do
-
-| | |
-|---|---|
-| 🖥️ **Systems tools** | Software that works close to the machine |
-| 🌐 **Web applications** | Useful, clean interfaces |
-| ⚙️ **Automation tools** | Removing repetitive work |
-| ⛏️ **Minecraft modding** | Extending the game |
-| 🤖 **AI-assisted development** | Building and learning faster |
-
-<br />
-
 ## 💻 Skills
 
-| Area | Stack |
-|---|---|
-| **Frontend** | HTML · CSS · JavaScript · Tailwind CSS |
-| **Backend** | Python · Java · Rust · SQL |
-| **Tools** | Git · MySQL · VS Code |
-| **Strengths** | AI-assisted development · Problem solving · Quick learning |
-
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,java,rust,mysql,git,vscode&theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, Python, Java, Rust, MySQL, Git, and VS Code" />
 </p>
+
+Strong at AI-assisted development, problem solving, and learning quickly.
 
 <br />
 
