@@ -1,42 +1,67 @@
+<div align="center">
+
 # Hi, I'm Ransu 👋
 
-<p align="left">
-  <a href="https://ransudev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6d5dfc?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/ransudev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:ransu.email@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+**Computer Science student · building practical software**
 
-I'm a Computer Science student. I build practical software.
+<br />
+
+<a href="https://ransudev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-e02020?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/ransudev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:ransu.email@gmail.com"><img src="https://img.shields.io/badge/Email-ff8a1f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Discord-@ransudev-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @ransudev" />
+
+</div>
+
+<br />
+
+## 👋 About
+
+I'm a Computer Science student who builds practical software.
 
 I work on web development, systems tools, automation, and game modding. I also use AI tools to build and learn faster.
 
-[Portfolio](https://ransudev.vercel.app) · [GitHub](https://github.com/ransudev) · [Email](mailto:ransu.email@gmail.com) · Discord: `@ransudev`
+<br />
 
 ## 🛠️ What I do
 
-- Systems tools
-- Web applications
-- Automation tools
-- Minecraft modding
-- AI-assisted development
+| | |
+|---|---|
+| 🖥️ **Systems tools** | Software that works close to the machine |
+| 🌐 **Web applications** | Useful, clean interfaces |
+| ⚙️ **Automation tools** | Removing repetitive work |
+| ⛏️ **Minecraft modding** | Extending the game |
+| 🤖 **AI-assisted development** | Building and learning faster |
+
+<br />
 
 ## 💻 Skills
 
-**Frontend:** HTML · CSS · JavaScript · Tailwind CSS  
-**Backend:** Python · Java · Rust · SQL  
-**Tools:** Git · MySQL · VS Code  
-**Strengths:** AI-assisted development · Problem solving · Quick learning
+| Area | Stack |
+|---|---|
+| **Frontend** | HTML · CSS · JavaScript · Tailwind CSS |
+| **Backend** | Python · Java · Rust · SQL |
+| **Tools** | Git · MySQL · VS Code |
+| **Strengths** | AI-assisted development · Problem solving · Quick learning |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,java,rust,mysql,git,vscode" alt="HTML, CSS, JavaScript, Tailwind CSS, Python, Java, Rust, MySQL, Git, and VS Code" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,java,rust,mysql,git,vscode&theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, Python, Java, Rust, MySQL, Git, and VS Code" />
 </p>
+
+<br />
 
 ## 🧩 How I work
 
-I understand the problem, build a useful solution, and improve it with feedback.
+> I understand the problem, build a useful solution, and improve it with feedback.
+
+<br />
 
 ## 📫 Let's connect
 
 I'm open to conversations about software, collaboration, and new ideas.
 
-[Start a conversation](mailto:ransu.email@gmail.com)
+<div align="center">
+
+<a href="mailto:ransu.email@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-e02020?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" /></a>
+
+</div>
