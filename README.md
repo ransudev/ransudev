@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ransu 👋
+<img src="assets/banner.png" alt="Ransu" width="100%" />
 
 **Computer Science student · building practical software**
 
