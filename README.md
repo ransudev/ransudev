@@ -15,7 +15,7 @@
 
 <br />
 
-## 👋 About
+##  About
 
 I'm a Computer Science student who builds practical software.
 
@@ -23,7 +23,7 @@ I work on web development, systems tools, automation, and game modding. I also u
 
 <br />
 
-## 💻 Skills
+##  Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,java,rust,mysql,git,vscode&theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, Python, Java, Rust, MySQL, Git, and VS Code" />
@@ -33,13 +33,13 @@ Strong at AI-assisted development, problem solving, and learning quickly.
 
 <br />
 
-## 🧩 How I work
+##  How I work
 
 > I understand the problem, build a useful solution, and improve it with feedback.
 
 <br />
 
-## 📫 Let's connect
+##  Let's connect
 
 I'm open to conversations about software, collaboration, and new ideas.
 
