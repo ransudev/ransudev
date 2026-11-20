@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Ransu" width="100%" />
+<img src="assets/banner.gif" alt="RANSU.DEV: a pixel night sky over rooftops with a moon and a black cat" width="100%" />
 
 **Computer Science student · building practical software**
 
